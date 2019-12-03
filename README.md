@@ -15,7 +15,7 @@
 <script type="application/ld+json">
 {"@type":"WebSite","url":"https://samuelqaq.github.io/","name":"SamuelQAQ.github.io","headline":"SamuelQAQ.github.io","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
-<meta http-equiv="refresh" content="5;url=http://www.issr.best/">
+<meta http-equiv="refresh" content="1;url=http://www.issr.best/">
   </head>
 
   <body>
