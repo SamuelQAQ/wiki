@@ -5,6 +5,6 @@
       <section id="main_content">
         <p>最新地址:www.ijsfq.buzz</p>
         <p>等待自动跳转，如未跳转，请使用浏览器访问上述地址</p>
-        <p>最新地址:www.jsfq.buzz</p>
+        <p>备用地址:www.jsfq.buzz</p>
       </section>
     </div>
