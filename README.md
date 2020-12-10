@@ -1,12 +1,14 @@
-<html><!-html文件开始-->
-    <head><!-头标签-->
-
-    </head>
-
-    <body>
-      <p>
+ <!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <link rel="stylesheet" href="">
+</head>
+<body>
       被喝茶无限期停业 jiedian仍在
 请各位遵守互联网规范、注意自己个人信息及资料安全
-</p>
-    </body>
-</html><!-html文件结束-->
+</body>
+</html>
+
